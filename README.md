@@ -20,3 +20,6 @@ Los maestro son personajes con un nivel de poder mayor a todos los demás,cuenta
 
 4.- feelings:
 Son personajes con un nivel de poder variado, son los personajes que se encontrará el personaje principal durante todo el recorrido. 
+
+# Enlace a Trello
+https://trello.com/b/lZsKHUDo/unforgiving-trials-nightfalls-grasp
