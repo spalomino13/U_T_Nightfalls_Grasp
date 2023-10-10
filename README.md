@@ -8,18 +8,12 @@ El objetivo principal será eliminar un jefe final para completar exitosamente l
 Un alumno de la carrera de Desarrollo de Software Multiplataforma trata de conseguir su título como TSU para ello deberá de enfrentarse a las implacables pruebas que sus profesores tienen para él, para ello deberá de navegar a través de todos los salones en busca de la aprobación de sus clases mientras se enfrenta a sus problemas diarios.
 
 
-# Personajes
-1.- Manu:
-Manu es un personaje con arma integrada que dispara teclas hacia sus oponentes para cargar puntos de aprobación (vida), mientras avanza irá encontrando objetos especiales que lo ayudarán a mejorar sus condiciones para poder llegar a los niveles finales donde tendrá que ganar la batalla contra un maestro especial.
+# Especificaciones de desarrollo
 
-2.- Nao: 
-Nao es un personaje con un aditamento especial que ayudará a mejorar  poder en su arma, Nao es un amigo de manu que conoció pasando al nivel 2 y que emprendió la aventura con él para pasar el nivel y ganar el premio final. 
+## Motor 2D
 
-3.- Maestros: 
-Los maestro son personajes con un nivel de poder mayor a todos los demás,cuenta con su arma integrada y habilidades nuevas, es el enfrentamiento final al que se debe enfrentar el personaje principal y eliminar. 
+## Clasificacion
 
-4.- feelings:
-Son personajes con un nivel de poder variado, son los personajes que se encontrará el personaje principal durante todo el recorrido. 
 
 # Enlace a Trello
 https://trello.com/b/lZsKHUDo/unforgiving-trials-nightfalls-grasp
