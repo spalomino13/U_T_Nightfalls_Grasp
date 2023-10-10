@@ -7,6 +7,16 @@ El objetivo principal será eliminar un jefe final para completar exitosamente l
 # Historia
 Un alumno de la carrera de Desarrollo de Software Multiplataforma trata de conseguir su título como TSU para ello deberá de enfrentarse a las implacables pruebas que sus profesores tienen para él, para ello deberá de navegar a través de todos los salones en busca de la aprobación de sus clases mientras se enfrenta a sus problemas diarios.
 
+# Aditamentos
+Los aditamentos pueden proporcionar mejoras en las habilidades del personaje, como aumentar su fuerza de ataque, velocidad, resistencia o precisión. Esto  permite enfrentar desafíos más difíciles y tener una ventaja sobre los oponentes. Se presentas imagenes de os aditamentos que se podran encontrar en el juego.
+![Audifonos](https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/4751474f-1a09-4480-a907-f18d2fe96a7c)
+![book](https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/6c811ac9-434d-484c-8596-26b1dfee7e76)
+![file](https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/f9e6c8af-898d-4687-a3a7-686bf606cf55)
+![mause](https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/84c1b935-9b2e-4a37-bd11-12c2f524b974)
+
+
+
+
 
 # Especificaciones de desarrollo
 
