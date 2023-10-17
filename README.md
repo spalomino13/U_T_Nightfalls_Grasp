@@ -21,9 +21,12 @@ Los aditamentos pueden proporcionar mejoras en las habilidades del personaje, co
 # Especificaciones de desarrollo
 
 ## Motor 2D
+Desarrollar el videojuego "Unforgiving Trials: Nightfall's Grasp" utilizando un motor 2D, con un enfoque similar al juego "The Binding of Isaac," con el propósito de ofrecer a los jugadores una experiencia emocionante y desafiante. El género de los juegos roguelike y el estilo visual 2D ha demostrado ser exitoso en la industria de los videojuegos. La popularidad de juegos como "The Binding of Isaac" indica una demanda continua por experiencias similares.
 
 ## Clasificacion
+El público al que va dirigida esta aplicación es a las personas mayores de 15 años, que buscan una experiencia de juego emocionante y desafiante. Nuestra aplicación ofrece una variedad de juegos y características diseñadas para entretener y estimular la mente de adolescentes y adultos jóvenes, brindando diversión y entretenimiento a aquellos que desean disfrutar de una experiencia de juego enriquecedora.
 
+<img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/6c811ac9-434d-484c-8596-26b1dfee7e76" width="100px" />
 
 # Enlace a Trello
 https://trello.com/b/lZsKHUDo/unforgiving-trials-nightfalls-grasp
