@@ -139,6 +139,15 @@ Los aditamentos pueden proporcionar mejoras en las habilidades del personaje, co
 
 # Especificacion de objetos
 
+| Nombre del objeto | Forma | Descripción |
+|-------------------|-------|-------------|
+|Sala|<img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/69067721-f902-4434-bebb-9f55ed500752" width="100px" />|Este es el fondo que se tendra en los mapas donde se podra mover el personaje|
+|Obstaculo de escritorio de equipos de computo|<img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/53e230c7-c3cd-4c16-a98f-aff6aa8fe324" width="100px" />|Estos  seran os objetos que se interprestan como ostaculos donde el personaje chocara con este|
+|Objeto puerta| <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/88ab3687-4a6e-40c8-9edf-eef1d984b280" width="100px" /> <br> <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/fd8d46e8-3349-4410-af95-17442f77a790" width="100px" />|Objeto que se interpresta como una puerta donde indica que podra pasarlao no dependiendo del estado de la puerta|
+
+
+
+
 # Estructura de base de datos
 
 # Enlace a Trello
