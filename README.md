@@ -29,6 +29,10 @@ El público al que va dirigida esta aplicación es a las personas mayores de 15 
  
 <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/105385260/1d7be187-a39c-4439-b055-26db0acb0c88" width="700px"/>
 
+#### Vista de la pagina de inicio
+<img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/89074060/297998c0-11ac-40a8-9ee5-f7243926ed80" width="700px"/>
+
+
 ## Pagina de informacion
 
 | Descripcion |
