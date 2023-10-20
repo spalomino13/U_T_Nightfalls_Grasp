@@ -74,7 +74,6 @@ El público al que va dirigida esta aplicación es a las personas mayores de 15 
 ## Nivel 1 - TSU
 <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/105385260/201053d6-8589-4c55-abc0-a2b988136095" width="700px" />
 
-
 ## Mapas nivel - TSU
 ### Mapa 1
 <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/105385260/c7e7856f-a506-43df-b2eb-2dfd038c2801" width="700px" />
