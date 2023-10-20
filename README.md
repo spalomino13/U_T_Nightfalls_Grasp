@@ -73,6 +73,8 @@ El público al que va dirigida esta aplicación es a las personas mayores de 15 
 
 <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/105385260/4438723e-b818-4474-86e8-e7c09f9a0a9a" width="700px" />
 
+<img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/105385260/0e826edc-1b8d-4e25-afbf-0973be3e8cad" width="700px" />
+
 # Diseños
 
 ## Nivel 1 - TSU
@@ -110,22 +112,20 @@ El público al que va dirigida esta aplicación es a las personas mayores de 15 
 <img src="https://github.com/spalomino13/U_T_Nightfalls_Grasp/assets/105385260/717a1114-083d-4dee-99fc-36216dea76d9" width="700px" />
 
 
-
-## Nivel 2 - F
-<img src="" width="700px" />
-
-## Mapas nivel - F
-### Mapa 1
-<img src="" width="700px" />
-### Mapa 2
-<img src="" width="700px" />
-### Mapa 3
-<img src="" width="700px" />
-
-
 # Ciclo del juego
 
 # Reglas del juego (Indicaciones)
+- Reglas del juego (Indicaciones)
+- Avanza una sala a la vez eliminando a los enemigos que se encuentren en ella.
+- Recolecta objetos que te ayudarán a mejorar tus habilidades.
+- Recuerda que cuentas con 3 vidas para pasar un mapa.
+- Encuentra y llega a la sala del jefe del mapa para enfrentarlo.
+  - Con el jefe se complican las cosas ya que cuentas con un límite de tiempo para vencerlo.
+  - En caso de que se te acabe el tiempo, pierdes una de las 3 vidas que tienes y reinicias el combate con el jefe.
+  - En caso de perder las 3 vidas, se reiniciará el mapa completo.
+- Derrota al jefe y muestra que eres digno de pasar al siguiente mapa.
+- Avanza 9 mapas derrotando a los enemigos y jefes para avanzar al siguiente nivel.
+
 
 # Aditamentos
 Los aditamentos pueden proporcionar mejoras en las habilidades del personaje, como aumentar su fuerza de ataque, velocidad, resistencia o precisión. Esto  permite enfrentar desafíos más difíciles y tener una ventaja sobre los oponentes. Se presentas imagenes de os aditamentos que se podran encontrar en el juego.
